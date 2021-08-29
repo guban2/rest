@@ -4,3 +4,11 @@ a
 array([1, 2, 3])
 type(a)
 <class 'numpy.ndarray'>
+
+
+
+dsakfj
+
+
+
+dsakfj
